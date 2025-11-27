@@ -1,13 +1,15 @@
+import { Route, Routes } from 'react-router-dom'
 import './App.css'
+import Index from './Pages/Index'
 
 function App() {
   
 
   return (
     <>
-    <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+    <Routes>
+      <Route path='/' element={<Index/>}/>
+    </Routes>
 
  
     </>
