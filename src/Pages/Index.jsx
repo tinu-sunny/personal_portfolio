@@ -64,7 +64,7 @@ active === "All Projects" ? projects : projects.filter((p) => p.category === act
           {/* Left column: text */}
           <div className="text-left max-w-2xl">
             <h1 className={theme?"text-6xl sm:text-7xl lg:text-8xl font-extrabold tracking-tight text-white leading-tight":"text-6xl sm:text-7xl lg:text-8xl font-extrabold tracking-tight text-gray-950 leading-tight"}>
-             John Babu
+             Babu Namboothiri
             </h1>
 
             <p className={theme?"mt-4 text-lg text-blue-600 font-medium":"mt-4 text-lg text-blue-800 font-medium"}>
