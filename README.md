@@ -9,3 +9,12 @@ react icons insatalled
 Created pages in src 
       
       1.index/landing page 
+
+
+      created new components 
+
+       about 
+       appfooter
+       contact
+       header
+       my skills
