@@ -41,10 +41,10 @@ craft.
 
 <div className="mt-10">
 <a
-href="#resume"
+href="/Media/Tinu_Sunny.pdf"
 className="px-6 py-3 rounded-xl bg-blue-600 text-white font-semibold shadow-lg hover:bg-blue-700 transition inline-block"
->
- Resume
+ download>
+  Download Resume
 </a>
 </div>
 </div>

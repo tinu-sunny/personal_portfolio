@@ -24,7 +24,7 @@ setTheme(true)
       </NavbarBrand>
       <NavbarToggle />
       <NavbarCollapse>
-        <NavbarLink href="#home" id="home" className={theme?"text-white self-center whitespace-nowrap text-xl font-bold":"self-center whitespace-nowrap text-xl font-bold"}>
+        <NavbarLink href="#" id="home" className={theme?"text-white self-center whitespace-nowrap text-xl font-bold":"self-center whitespace-nowrap text-xl font-bold"}>
           Home
         </NavbarLink>
         <NavbarLink  href="#about" id="about" className={theme?"text-white self-center whitespace-nowrap text-xl font-bold":"self-center whitespace-nowrap text-xl font-bold"}>
